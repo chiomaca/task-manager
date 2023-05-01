@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+loveth, Register new users, Registratio of new users into the system, 04 Mar 2023, 04 Oct 2023, No
+ruby, Register new users, Using the task manager to register new users, 04 Mar 2023, 04 May 2023, No
+admin, Adding a task, To add new tasks for users, 12 Mar 2023, 12 May 2023, No
+admin, viewing all tasks, To view all the tasks assigned to all users, 12 Mar 2023, 02 Apr 2023, No
+admin, adding new task/duties, just to add new tasks, 12 Mar 2023, 23 Apr 2023, No
+joma, training new staff, Train new staff on how to use Task Manager app, 12 Mar 2023, 23 Apr 2023, No
+joma, Gathering data, To research and gather data, 12 Mar 2023, 31 Mar 2023, No
+jane grace, to teach, to teach and onboard, 17 Mar 2023, 30 Apr 2023, No
